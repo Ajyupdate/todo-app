@@ -1,0 +1,2 @@
+body{background-color:grey}.todo-list{background-color:#fff;margin:auto;width:50%;flex-direction:column;border:1px solid #efefef;box-shadow:0 1px 1px rgba(0,0,0,.15),0 10px 0 -5px #eee,0 10px 1px -4px #000,0 20px 0 -16px #eee,0 20px 1px -9px rgba(0,0,0,.15);padding:30px}.todo-item,.todo-list{display:flex;align-items:center}.todo-item{flex-direction:row;justify-content:flex-start;padding:30px 20px 0;width:70%;border-bottom:1px solid #cecece;font-family:100;font-size:15px;color:#333}input[type=checkbox]{margin-right:10px}
+/*# sourceMappingURL=main.2a3b5e03.chunk.css.map */
