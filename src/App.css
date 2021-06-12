@@ -1,4 +1,6 @@
-
+body{
+  background-color: grey;
+}
 .todo-list{
   background-color: white;
   margin: auto;
